@@ -1,0 +1,21 @@
+[Mon Sep 11 23:29:54.889772 2017] [ssl:warn] [pid 16196:tid 460] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 11 23:29:55.037526 2017] [ssl:warn] [pid 16196:tid 460] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 11 23:29:55.146366 2017] [mpm_winnt:notice] [pid 16196:tid 460] AH00455: Apache/2.4.27 (Win64) OpenSSL/1.0.2l PHP/7.0.22 configured -- resuming normal operations
+[Mon Sep 11 23:29:55.146866 2017] [mpm_winnt:notice] [pid 16196:tid 460] AH00456: Apache Lounge VC14 Server built: Jul  9 2017 13:44:15
+[Mon Sep 11 23:29:55.146866 2017] [core:notice] [pid 16196:tid 460] AH00094: Command line: 'D:\\SIGNAG~3\\apache2\\bin\\httpd.exe -d D:/signage_dev/apache2 -f D:\\SIGNAG~3\\apache2\\conf\\httpd.conf'
+[Mon Sep 11 23:29:55.154877 2017] [mpm_winnt:notice] [pid 16196:tid 460] AH00418: Parent: Created child process 8852
+[Mon Sep 11 23:29:56.505564 2017] [ssl:warn] [pid 8852:tid 440] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 11 23:29:56.638790 2017] [ssl:warn] [pid 8852:tid 440] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 11 23:29:56.659815 2017] [mpm_winnt:notice] [pid 8852:tid 440] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 11 23:30:07.754537 2017] [mpm_winnt:notice] [pid 16196:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Sep 11 23:30:09.756141 2017] [mpm_winnt:notice] [pid 8852:tid 440] AH00364: Child: All worker threads have exited.
+[Mon Sep 11 23:30:09.775654 2017] [mpm_winnt:notice] [pid 16196:tid 460] AH00430: Parent: Child process 8852 exited successfully.
+[Mon Sep 11 23:30:12.779419 2017] [ssl:warn] [pid 964:tid 460] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 11 23:30:12.926102 2017] [ssl:warn] [pid 964:tid 460] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 11 23:30:12.942622 2017] [mpm_winnt:notice] [pid 964:tid 460] AH00455: Apache/2.4.27 (Win64) OpenSSL/1.0.2l PHP/7.0.22 configured -- resuming normal operations
+[Mon Sep 11 23:30:12.943123 2017] [mpm_winnt:notice] [pid 964:tid 460] AH00456: Apache Lounge VC14 Server built: Jul  9 2017 13:44:15
+[Mon Sep 11 23:30:12.943123 2017] [core:notice] [pid 964:tid 460] AH00094: Command line: 'D:\\SIGNAG~3\\apache2\\bin\\httpd.exe -d D:/signage_dev/apache2 -f D:\\SIGNAG~3\\apache2\\conf\\httpd.conf'
+[Mon Sep 11 23:30:12.948130 2017] [mpm_winnt:notice] [pid 964:tid 460] AH00418: Parent: Created child process 11560
+[Mon Sep 11 23:30:14.379919 2017] [ssl:warn] [pid 11560:tid 424] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 11 23:30:14.506076 2017] [ssl:warn] [pid 11560:tid 424] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 11 23:30:14.527603 2017] [mpm_winnt:notice] [pid 11560:tid 424] AH00354: Child: Starting 64 worker threads.
